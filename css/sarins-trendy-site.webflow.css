@@ -5225,10 +5225,11 @@ figcaption {
 
 @media screen and (max-width: 350px){
   .header-title {
-      font-size: 40px;
+      font-size: 28px;
     }
 
-} 
+}
+
 
 
 
